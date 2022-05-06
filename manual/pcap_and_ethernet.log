@@ -1,0 +1,697 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.20)  27 MAR 2022 23:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**pcap_and_ethernet.tex
+(./pcap_and_ethernet.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/bxcjkjatype/bxcjkjatype.sty
+Package: bxcjkjatype 2016/10/15 v0.3
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Package bxcjkjatype Info: Driver auto-detected: pdftex on input line 144.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box50
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count193
+\CJKpunct@cntb=\count194
+\CJKpunct@cntc=\count195
+\CJKpunct@cntd=\count196
+\CJKpunct@cnte=\count197
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count198
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count199
+\lst@gtempboxa=\box51
+\lst@token=\toks19
+\lst@length=\count266
+\lst@currlwidth=\dimen139
+\lst@column=\count267
+\lst@pos=\count268
+\lst@lostspace=\dimen140
+\lst@width=\dimen141
+\lst@newlines=\count269
+\lst@lineno=\count270
+\lst@maxwidth=\dimen142
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count271
+\lst@skipnumbers=\count272
+\lst@framebox=\box52
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/jvlisting/jvlisting.sty
+Package: jvlisting 2011/11/17 v0.7 Formatted Program Listings
+\jvl@idt=\count273
+\jvl@tmphyphenchar=\count274
+\jvl@fileinput=\read2
+\listingskipamount=\skip49
+\listingindent=\dimen143
+\prelistingpenalty=\count275
+\listingpenalty=\count276
+\postlistingpenalty=\count277
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count278
+\l__pdf_internal_box=\box53
+)
+(./pcap_and_ethernet.aux
+
+LaTeX Warning: Label `hoge' multiply defined.
+
+
+LaTeX Warning: Label `hoge' multiply defined.
+
+)
+\openout1 = `pcap_and_ethernet.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+)
+\c@lstlisting=\count279
+LaTeX Font Info:    Font shape `C70/mc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 13.
+Package CJKpunct Info: punctuation spaces for family 'mc' do not exist. Use fam
+ily 'def' instead. on input line 13.
+
+Overfull \hbox (93.00446pt too wide) in paragraph at lines 28--29
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+4.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 34.
+
+Overfull \hbox (15.00366pt too wide) in paragraph at lines 49--50
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.00378pt too wide) in paragraph at lines 51--52
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 6
+9.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 69.
+ [2]
+Overfull \hbox (9.0036pt too wide) in paragraph at lines 120--121
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.0036pt too wide) in paragraph at lines 129--130
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (3.00354pt too wide) in paragraph at lines 142--144
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (135.00488pt too wide) in paragraph at lines 145--146
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (129.00482pt too wide) in paragraph at lines 146--147
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[3]
+LaTeX Font Info:    Font shape `C70/mc/bx/n'
+(Font)              in size <14.4> not available.
+(Font)              Font shape `C70/gt/m/n'
+(Font)              tried instead on input line 208.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 14.4pt on input line 208.
+ [4]
+Overfull \hbox (141.0049pt too wide) in paragraph at lines 218--219
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (87.00436pt too wide) in paragraph at lines 231--232
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00447pt too wide) in paragraph at lines 237--238
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00446pt too wide) in paragraph at lines 238--239
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00444pt too wide) in paragraph at lines 239--240
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00446pt too wide) in paragraph at lines 240--241
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00446pt too wide) in paragraph at lines 241--242
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00446pt too wide) in paragraph at lines 242--243
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00444pt too wide) in paragraph at lines 243--244
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00444pt too wide) in paragraph at lines 244--245
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00441pt too wide) in paragraph at lines 245--246
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00444pt too wide) in paragraph at lines 246--247
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00446pt too wide) in paragraph at lines 247--248
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (147.00493pt too wide) in paragraph at lines 248--249
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00447pt too wide) in paragraph at lines 249--250
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00449pt too wide) in paragraph at lines 250--251
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00447pt too wide) in paragraph at lines 251--252
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00446pt too wide) in paragraph at lines 252--253
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.00449pt too wide) in paragraph at lines 253--255
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.66687pt too wide) in paragraph at lines 258--262
+\C70/mc/m/n/10/30 o\OT1/cmr/m/n/10 sockaddr\C70/mc/m/n/10/69 À \C70/mc/m/n/10/9
+0   \C70/mc/m/n/10/4f S \C70/mc/m/n/10/30 g \C70/mc/m/n/10/5b £ \C70/mc/m/n/10/
+8a ^^@ \C70/mc/m/n/10/30 U å f D ã\OT1/cmr/m/n/10 .\C70/mc/m/n/10/30 d ~ ä\OT1/
+cmr/m/n/10 MAC\C70/mc/m/n/10/30 ¢ … Ï π í \C70/mc/m/n/10/89 ã \C70/mc/m/n/10/30
+ ã k o\OT1/cmr/m/n/10 sockaddr\C70/mc/m/n/10/69 À
+ []
+
+
+Overfull \hbox (7.69472pt too wide) in paragraph at lines 258--262
+\C70/mc/m/n/10/90   \C70/mc/m/n/10/4f S \C70/mc/m/n/10/30 h W f ¢ Ø ª π Y ã \C7
+0/mc/m/n/10/5f ≈ \C70/mc/m/n/10/89 Å \C70/mc/m/n/10/30 L B ã\OT1/cmr/m/n/10 . s
+ock-addr\C70/mc/m/n/10/69 À \C70/mc/m/n/10/90   \C70/mc/m/n/10/4f S \C70/mc/m/n
+/10/30 o \OT1/cmr/m/n/10 /in-clude/bit-s/-socket.h\C70/mc/m/n/10/30 k
+ []
+
+[5]
+Overfull \hbox (111.00462pt too wide) in paragraph at lines 266--267
+[][][][][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+LaTeX Font Info:    Font shape `C70/mc/bx/n'
+(Font)              in size <12> not available.
+(Font)              Font shape `C70/gt/m/n'
+(Font)              tried instead on input line 272.
+LaTeX Font Info:    Font shape `C70/gt/m/n' will be
+(Font)              scaled to size 12.0pt on input line 272.
+
+Overfull \hbox (22.9057pt too wide) in paragraph at lines 273--279
+\OT1/cmr/m/n/10 ioctl\C70/mc/m/n/10/30 ∑ π ∆ ‡ ≥ ¸ Î í \C70/mc/m/n/10/75 ( \C70
+/mc/m/n/10/30 D ã k o \C70/mc/m/n/10/4e ã \C70/mc/m/n/10/52 M \C70/mc/m/n/10/30
+ k\OT1/cmr/m/n/10 ,\C70/mc/m/n/10/30 Í Û Ø Ï § ‰ í \C70/mc/m/n/10/62 q \C70/mc/
+m/n/10/30 F _ Å k\OT1/cmr/m/n/10 SOCK[]RAW\C70/mc/m/n/10/30 í
+ []
+
+
+Overfull \hbox (9.0036pt too wide) in paragraph at lines 294--295
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.00378pt too wide) in paragraph at lines 301--302
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[6]
+Overfull \hbox (34.00584pt too wide) in paragraph at lines 318--327
+\C70/mc/m/n/10/60 Û \C70/mc/m/n/10/74 ∞ \C70/mc/m/n/10/58 É \C70/mc/m/n/10/30 g
+ \C70/mc/m/n/10/88 L \C70/mc/m/n/10/30 F S h í \C70/mc/m/n/10/52 Á \C70/mc/m/n/
+10/30 Å ã\OT1/cmr/m/n/10 . MAC\C70/mc/m/n/10/30 ¢ … Ï π n \C70/mc/m/n/10/66 ¯ \
+C70/mc/m/n/10/30 M \C70/mc/m/n/10/63 € \C70/mc/m/n/10/30 H o \OT1/cmr/m/n/10 if
+req.ifr[]hwaddr.sa[]data[15]\C70/mc/m/n/10/91 M
+ []
+
+
+Overfull \hbox (3.00354pt too wide) in paragraph at lines 342--343
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (15.00366pt too wide) in paragraph at lines 349--350
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.00372pt too wide) in paragraph at lines 350--352
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[7]
+Overfull \hbox (15.00366pt too wide) in paragraph at lines 368--370
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.04459pt too wide) in paragraph at lines 384--388
+\C70/mc/m/n/10/63 ^^G \C70/mc/m/n/10/5b ö \C70/mc/m/n/10/30 W _ § Û ø ¸ ’ ß π n
+\OT1/cmr/m/n/10 IP\C70/mc/m/n/10/30 ¢ … Ï π í \C70/mc/m/n/10/53 ÷ \C70/mc/m/n/1
+0/5f ó \C70/mc/m/n/10/30 W\OT1/cmr/m/n/10 ,\C70/mc/m/n/10/30 ] n \C70/mc/m/n/10
+/60 ≈ \C70/mc/m/n/10/58 1 \C70/mc/m/n/10/30 í\OT1/cmr/m/n/10 ifreq\C70/mc/m/n/1
+0/69 À \C70/mc/m/n/10/90   \C70/mc/m/n/10/4f S \C70/mc/m/n/10/30 n\OT1/cmr/m/n/
+10 ifr[]addr\C70/mc/m/n/10/30 ·
+ []
+
+[8]
+Overfull \hbox (15.00366pt too wide) in paragraph at lines 412--413
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.00378pt too wide) in paragraph at lines 421--422
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[9] [10]
+Overfull \hbox (99.00452pt too wide) in paragraph at lines 517--519
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[11] (./pcap_and_ethernet.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5648 strings out of 478276
+ 82028 string characters out of 5846490
+ 429985 words of memory out of 5000000
+ 23667 multiletter control sequences out of 15000+600000
+ 487230 words of font info for 96 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 70i,6n,76p,349b,1560s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u70.enc
+}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u98.enc}
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u57.enc}{
+/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6e.enc}{/
+usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u71.enc}{/u
+sr/local/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u74.enc}{/us
+r/local/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u51.enc}{/usr
+/local/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u58.enc}{/usr/
+local/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u60.enc}{/usr/l
+ocal/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u97.enc}{/usr/lo
+cal/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8b.enc}{/usr/loc
+al/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u50.enc}{/usr/loca
+l/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8f.enc}{/usr/local
+/texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u56.enc}{/usr/local/
+texlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u79.enc}{/usr/local/t
+exlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u62.enc}{/usr/local/te
+xlive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u64.enc}{/usr/local/tex
+live/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u88.enc}{/usr/local/texl
+ive/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u68.enc}{/usr/local/texli
+ve/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7d.enc}{/usr/local/texliv
+e/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u76.enc}{/usr/local/texlive
+/2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6c.enc}{/usr/local/texlive/
+2021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u78.enc}{/usr/local/texlive/2
+021/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u5b.enc}{/usr/local/texlive/20
+21/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u8a.enc}{/usr/local/texlive/202
+1/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u30.enc}{/usr/local/texlive/2021
+/texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u53.enc}{/usr/local/texlive/2021/
+texmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u7a.enc}{/usr/local/texlive/2021/t
+exmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u66.enc}{/usr/local/texlive/2021/te
+xmf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u91.enc}{/usr/local/texlive/2021/tex
+mf-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u6b.enc}{/usr/local/texlive/2021/texm
+f-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u63.enc}{/usr/local/texlive/2021/texmf
+-dist/fonts/enc/dvips/ipaex-type1/ipxt1-u59.enc}{/usr/local/texlive/2021/texmf-
+dist/fonts/enc/dvips/ipaex-type1/ipxt1-u77.enc}{/usr/local/texlive/2021/texmf-d
+ist/fonts/enc/dvips/ipaex-type1/ipxt1-u8c.enc}{/usr/local/texlive/2021/texmf-di
+st/fonts/enc/dvips/ipaex-type1/ipxt1-u67.enc}{/usr/local/texlive/2021/texmf-dis
+t/fonts/enc/dvips/ipaex-type1/ipxt1-u7f.enc}{/usr/local/texlive/2021/texmf-dist
+/fonts/enc/dvips/ipaex-type1/ipxt1-u90.enc}{/usr/local/texlive/2021/texmf-dist/
+fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2021/texmf-dist/f
+onts/enc/dvips/ipaex-type1/ipxt1-u69.enc}{/usr/local/texlive/2021/texmf-dist/fo
+nts/enc/dvips/ipaex-type1/ipxt1-u65.enc}{/usr/local/texlive/2021/texmf-dist/fon
+ts/enc/dvips/ipaex-type1/ipxt1-u95.enc}{/usr/local/texlive/2021/texmf-dist/font
+s/enc/dvips/ipaex-type1/ipxt1-u54.enc}{/usr/local/texlive/2021/texmf-dist/fonts
+/enc/dvips/ipaex-type1/ipxt1-u89.enc}{/usr/local/texlive/2021/texmf-dist/fonts/
+enc/dvips/ipaex-type1/ipxt1-u5f.enc}{/usr/local/texlive/2021/texmf-dist/fonts/e
+nc/dvips/ipaex-type1/ipxt1-u6a.enc}{/usr/local/texlive/2021/texmf-dist/fonts/en
+c/dvips/ipaex-type1/ipxt1-u80.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc
+/dvips/ipaex-type1/ipxt1-u7b.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/
+dvips/ipaex-type1/ipxt1-u96.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/d
+vips/ipaex-type1/ipxt1-u52.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dv
+ips/ipaex-type1/ipxt1-u4e.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvi
+ps/ipaex-type1/ipxt1-u75.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvip
+s/ipaex-type1/ipxt1-u4f.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmtt10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ip
+aex-type1/ipxg-r-u30.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public
+/ipaex-type1/ipxg-r-u50.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/pub
+lic/ipaex-type1/ipxg-r-u51.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/
+public/ipaex-type1/ipxg-r-u5b.pfb></usr/local/texlive/2021/texmf-dist/fonts/typ
+e1/public/ipaex-type1/ipxg-r-u74.pfb></usr/local/texlive/2021/texmf-dist/fonts/
+type1/public/ipaex-type1/ipxg-r-u79.pfb></usr/local/texlive/2021/texmf-dist/fon
+ts/type1/public/ipaex-type1/ipxg-r-u88.pfb></usr/local/texlive/2021/texmf-dist/
+fonts/type1/public/ipaex-type1/ipxg-r-u8a.pfb></usr/local/texlive/2021/texmf-di
+st/fonts/type1/public/ipaex-type1/ipxm-r-u30.pfb></usr/local/texlive/2021/texmf
+-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4e.pfb></usr/local/texlive/2021/te
+xmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u4f.pfb></usr/local/texlive/2021
+/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u50.pfb></usr/local/texlive/2
+021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u51.pfb></usr/local/texliv
+e/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u52.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u53.pfb></usr/local/
+texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u54.pfb></usr/loc
+al/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u56.pfb></usr/
+local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u57.pfb></u
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u58.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u59.p
+fb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u5
+b.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r
+-u5f.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipx
+m-r-u60.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/
+ipxm-r-u62.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-typ
+e1/ipxm-r-u63.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-
+type1/ipxm-r-u64.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipa
+ex-type1/ipxm-r-u65.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/
+ipaex-type1/ipxm-r-u66.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publ
+ic/ipaex-type1/ipxm-r-u67.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/p
+ublic/ipaex-type1/ipxm-r-u68.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
+1/public/ipaex-type1/ipxm-r-u69.pfb></usr/local/texlive/2021/texmf-dist/fonts/t
+ype1/public/ipaex-type1/ipxm-r-u6a.pfb></usr/local/texlive/2021/texmf-dist/font
+s/type1/public/ipaex-type1/ipxm-r-u6b.pfb></usr/local/texlive/2021/texmf-dist/f
+onts/type1/public/ipaex-type1/ipxm-r-u6c.pfb></usr/local/texlive/2021/texmf-dis
+t/fonts/type1/public/ipaex-type1/ipxm-r-u6e.pfb></usr/local/texlive/2021/texmf-
+dist/fonts/type1/public/ipaex-type1/ipxm-r-u70.pfb></usr/local/texlive/2021/tex
+mf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u71.pfb></usr/local/texlive/2021/
+texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u74.pfb></usr/local/texlive/20
+21/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u75.pfb></usr/local/texlive
+/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u76.pfb></usr/local/texl
+ive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u77.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u78.pfb></usr/loca
+l/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u79.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7a.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7b.pfb><
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7d.pf
+b></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-u7f
+.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm-r-
+u80.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/ipxm
+-r-u88.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type1/i
+pxm-r-u89.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-type
+1/ipxm-r-u8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipaex-t
+ype1/ipxm-r-u8b.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/ipae
+x-type1/ipxm-r-u8c.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/i
+paex-type1/ipxm-r-u8f.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publi
+c/ipaex-type1/ipxm-r-u90.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/pu
+blic/ipaex-type1/ipxm-r-u91.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1
+/public/ipaex-type1/ipxm-r-u95.pfb></usr/local/texlive/2021/texmf-dist/fonts/ty
+pe1/public/ipaex-type1/ipxm-r-u96.pfb></usr/local/texlive/2021/texmf-dist/fonts
+/type1/public/ipaex-type1/ipxm-r-u97.pfb></usr/local/texlive/2021/texmf-dist/fo
+nts/type1/public/ipaex-type1/ipxm-r-u98.pfb></usr/local/texlive/2021/texmf-dist
+/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on pcap_and_ethernet.pdf (11 pages, 516915 bytes).
+PDF statistics:
+ 477 PDF objects out of 1000 (max. 8388607)
+ 277 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 209 words of extra memory for PDF output out of 10000 (max. 10000000)
+
