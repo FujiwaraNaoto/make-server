@@ -1,7 +1,7 @@
-
+# How to use.
 まず main.cの
-const char WEBROOT[] = "/Users/fujiwara/desktop/make-practice/makeserver/tinyweblog2/";//
-const char LOGFILE[] = "/Users/fujiwara/desktop/make-practice/makeserver/tinyweblog2/tinywebd.log";
+const char WEBROOT[] = "/Users/tinyweblog/";//
+const char LOGFILE[] = "/Users/tinywebd.log";
 の部分をindex.htmlが置いてあるパスに書き換えましょう.
 
 次に

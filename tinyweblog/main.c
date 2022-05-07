@@ -21,7 +21,7 @@
 //const char WEBROOT[] = "./webroot";//root directory
 //この部分はファイルを置いてある場所に自分でカスタマイズすべし
 const char WEBROOT[] = "/Users/tinyweblog/";//
-const char LOGFILE[] = "/Users/tinyweb.log";//tinywebというファイル名(拡張子は.log)
+const char LOGFILE[] = "/Users/tinywebd.log";//tinywebというファイル名(拡張子は.log)
 
 static int sockfd;//このtinyweb.cのみで使用できる
 //static char filename[]="index.php";//これだとPHPがそのまま出てきてしまうな
