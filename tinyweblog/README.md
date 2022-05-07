@@ -58,6 +58,8 @@ in recv_line
 ログファイルを見てみましょう.
 sudo cat tinywebd.log
 で表示されるはずです
+代わりに　sudo less tinywebd.log でも構いません
+
 
 
 
